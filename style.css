@@ -1,4 +1,4 @@
-.title {
+h1 {
     color: orange;
     background-color: black;
     font-family: cursive;
@@ -6,7 +6,9 @@
     font-weight: 400;
 }
 
-.heading {
+body {background-color: darkgray;}
+
+h2 {
     color: darkgreen;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
@@ -19,4 +21,5 @@
 .recipe {
     color: green;
     background-color: yellow;
+    font-size: 30px;
 }
